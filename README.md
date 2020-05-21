@@ -8,5 +8,5 @@
 
 * whoami
 
-      ➜  ~ git:(react2) ✗ whoami
+      ✗ whoami
       pintred
