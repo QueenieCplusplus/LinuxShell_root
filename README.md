@@ -13,6 +13,10 @@
       
 * chmod < number >
 
+  chmod 666
+  
+  chmod 777
+
       ➜  desktop ls -l StaceyKent.png  
 
       -rw-r--r--@ 1 pintred  staff  173305  4 28 00:32 StaceyKent.png
