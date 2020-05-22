@@ -34,5 +34,14 @@
       
       chmod u+x <file>
       // only owner can write file.
+      
+* who got the file
+
+
+u: user 擁有者
+
+g: group 群組
+
+o: others 其他人
 
 (to be continued...)
