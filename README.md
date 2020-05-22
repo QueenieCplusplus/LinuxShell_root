@@ -26,5 +26,7 @@
       ➜  desktop ls -l StaceyKent.png
 
       -rw-rw-rw-@ 1 pintred  staff  173305  4 28 00:32 StaceyKent.png
+      
+* permission
 
 (to be continued...)
