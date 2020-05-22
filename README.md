@@ -29,4 +29,10 @@
       
 * permission
 
+      chmod a+x <file>
+      // all user can write file.
+      
+      chmod u+x <file>
+      // only owner can write file.
+
 (to be continued...)
