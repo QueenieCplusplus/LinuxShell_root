@@ -13,9 +13,13 @@
       
 * chmod < number >
 
+原理詳見 https://blog.csdn.net/u013197629/article/details/73608613 ）(三組數字的意義)
+
   chmod 666
   
   chmod 777
+  
+  chmod 755
 
       ➜  desktop ls -l StaceyKent.png  
 
@@ -28,6 +32,8 @@
       -rw-rw-rw-@ 1 pintred  staff  173305  4 28 00:32 StaceyKent.png
       
 * permission
+
+開放權限攸關 chmod 後面所接的三組數字。
 
       chmod a+x <file>
       // all user can write file.
